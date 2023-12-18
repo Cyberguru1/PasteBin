@@ -1,3 +1,5 @@
+*******                                                                                                                  ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPzn6xKUb4Wo2Me8zZVE-tmejaL0HFoPk63VWwJhibYVJg2HLyMAuVGq1-Kh36vehRhA&usqp=CAU)
+
 # PasteBin - Simple and Secure Paste Sharing
 
 This project implements a simple and secure paste bin service using Node.js and MongoDB. It allows users to create and share text pastes with a unique identifier. The pastes are stored securely in a MongoDB database, and each paste has an expiration time to ensure data cleanliness.
